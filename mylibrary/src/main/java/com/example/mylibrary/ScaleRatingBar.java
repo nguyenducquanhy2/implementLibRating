@@ -8,9 +8,7 @@ import android.view.animation.AnimationUtils;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
-/**
- * Created by willy on 2017/5/5.
- */
+
 
 public class ScaleRatingBar extends AnimationRatingBar {
 

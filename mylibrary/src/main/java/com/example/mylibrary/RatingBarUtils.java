@@ -6,9 +6,7 @@ import java.text.DecimalFormat;
 import java.text.DecimalFormatSymbols;
 import java.util.Locale;
 
-/**
- * Created by willy on 2018/3/8.
- */
+
 
 class RatingBarUtils {
 

@@ -19,9 +19,7 @@ import androidx.core.content.ContextCompat;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by willy on 2017/5/5.
- */
+
 
 public class BaseRatingBar extends LinearLayout implements SimpleRatingBar {
 

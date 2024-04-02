@@ -9,9 +9,6 @@ import androidx.annotation.Nullable;
 
 import java.util.UUID;
 
-/**
- * Created by willy on 2017/5/5.
- */
 
 public class AnimationRatingBar extends BaseRatingBar {
 

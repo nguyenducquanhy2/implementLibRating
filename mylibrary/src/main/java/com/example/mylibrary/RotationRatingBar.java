@@ -8,10 +8,6 @@ import android.view.animation.AnimationUtils;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
-/**
- * Created by nappannda on 2017/05/16.
- */
-
 public class RotationRatingBar extends AnimationRatingBar {
 
     // Control animation speed

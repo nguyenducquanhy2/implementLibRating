@@ -4,9 +4,7 @@ import android.os.Parcel;
 import android.os.Parcelable;
 import android.view.View;
 
-/**
- * Created by willy on 2017/11/16.
- */
+
 
 class SavedState extends View.BaseSavedState {
 

@@ -7,9 +7,7 @@ import androidx.annotation.FloatRange;
 import androidx.annotation.IntRange;
 import androidx.annotation.NonNull;
 
-/**
- * Created by willy on 2017/5/10.
- */
+
 interface SimpleRatingBar {
 
     void setNumStars(int numStars);
